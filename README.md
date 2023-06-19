@@ -1,7 +1,3 @@
 # Important Instructions
 
-Demo repo in GitHub
-
-# new stupid comment on branch1
-
-Practice PR
+This is a demo repository for practicing Git & GitHub.
